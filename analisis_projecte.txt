@@ -1,0 +1,17 @@
+Nivell 1 (obligatori)
+- Exercici 1
+L'objectiu d'aquest apartat serà crear un document a on expliquis el teu projecte.Si no tens projecte pots agafar el projecte de mostra de la llibreria E-Commerce, però hauràs d'aportar alguna millora. 
+
+El document ha de tenir el 3 punts següents:
+
+Introducció al problema
+
+Comenta la problemàtica que vol resoldre el teu producte.
+
+Explicació del servei
+
+Fer una descripció del servei, així com especificar les funcionalitats principals: cercador, botiga, dades que es mostren...
+
+Extra
+
+Fes un breu estudi de mercat i indica les pàgines que creus que serien competència, així com explicar quins creus que són els punts forts i febles d'aquestes webs
